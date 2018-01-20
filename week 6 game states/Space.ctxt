@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=Counter\ getCounter()
+comment3.params=
+comment3.target=HealthBar\ getHealthBar()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ variable\ gameTime\ would\ become\ one\ bigger\ each\ time\ the\ program\ runs\ through\r\n
+comment5.params=
+comment5.target=int\ getTime()
+numComments=6
